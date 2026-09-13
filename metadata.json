@@ -1,0 +1,10 @@
+{
+  "name": "H₂S SAFE-SENSE",
+  "description": "Industrial colorimetric dosimeter platform with Host Safety Station, Raspberry Pi wristband dispenser & QR return kiosk, real-time worker health monitoring, and local browser emergency alerts for high H₂S exposure.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
